@@ -4146,12 +4146,6 @@
     "zigbeeStackVersion": "ZigBeePro"
   },
   {
-    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Inovelli/VZM32-SN_0.06.ota",
-    "stack": "EmberZNet",
-    "stackDetails": "GBL",
-    "zigbeeStackVersion": "ZigBeePro"
-  },
-  {
     "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/pvvx/1141-0201-01283001-ZMHOC401.zigbee",
     "stack": "Telink",
     "stackDetails": "",
@@ -4275,6 +4269,12 @@
     "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Lumi/20240624144545_OTA_lumi.curtain.acn002_0.0.0_1532_20240528_438A0E.ota",
     "stack": "Unknown",
     "stackDetails": "",
+    "zigbeeStackVersion": "ZigBeePro"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Inovelli/VZM32-SN_0.07.ota",
+    "stack": "EmberZNet",
+    "stackDetails": "GBL",
     "zigbeeStackVersion": "ZigBeePro"
   }
 ]
