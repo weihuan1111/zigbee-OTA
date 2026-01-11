@@ -3043,5 +3043,17 @@
     "manufacturerCode": 5127,
     "sha512": "4c445ed092a7a9321bf195bc0247c108f9da5c42de5a3b9669ce71b929d97401d80a70fb83e818ded8cee45923eafd74fd61b7e2371ee96cce19a9732d4c5160",
     "otaHeaderString": "temp_humi_sensor"
+  },
+  {
+    "fileName": "100B-012A-01000700-Light-SiMG301.zigbee",
+    "fileVersion": 16779008,
+    "fileSize": 1062460,
+    "originalUrl": "https://firmware.meethue.com/storage/100b-12a/16779008/229a7fd1-9d41-459a-bba8-807cae8ae333/100B-012A-01000700-Light-SiMG301.zigbee",
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images1/Hue/100B-012A-01000700-Light-SiMG301.zigbee",
+    "imageType": 298,
+    "manufacturerCode": 4107,
+    "sha512": "8a201045a669df5e17daed5ee80bdfb318e0465fcdeaebf69cfe1eb5cf563c0137526be894921512f8333cbb7dfacf36002d25b2dfd8e7789bb1d376f300bd97",
+    "otaHeaderString": "",
+    "releaseNotes": "Version: 7.0"
   }
 ]
