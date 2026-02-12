@@ -70,17 +70,6 @@
     "releaseNotes": "https://ww8.ikea.com/ikeahomesmart/releasenotes/releasenotes.html"
   },
   {
-    "fileName": "VZM31-SN_2.15-Production.ota",
-    "fileVersion": 16908815,
-    "fileSize": 306782,
-    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images1/Inovelli/VZM31-SN_2.15-Production.ota",
-    "imageType": 257,
-    "manufacturerCode": 4655,
-    "sha512": "0c0973c9ad5f627b9cd1cfea8c6d4b0e57958378b4ca21b97d9552fa0183eecbb3c3971cf4f965e39c8b974aa3e91653c9ef7a55abe4ae478a67dccc6417b26a",
-    "otaHeaderString": "EBL VM_SWITCH",
-    "originalUrl": "https://github.com/InovelliUSA/Firmware/raw/main/Blue-Series/Zigbee/VZM31-SN-2-1-Switch/Production/2.15/VZM31-SN_2.15-Production.ota"
-  },
-  {
     "fileName": "VZM36_0.04.ota",
     "fileVersion": 67174404,
     "fileSize": 237962,
@@ -3144,5 +3133,15 @@
     "sha512": "970d3f2f3cf4ef919d6f44dc6feb354eb603038d00b68542f07f72f3d7a4685b539708e3a0443f046974d4d841353da2a2734f4fedf157057d19d68b97042a93",
     "otaHeaderString": "DOT_IT_ZBD_G01",
     "releaseNotes": "1. Standard brightness of Dot-It @70%.\r\n2. Improve Dimming Curve."
+  },
+  {
+    "fileName": "VZM31-SN_2.18-Production.ota",
+    "fileVersion": 16908818,
+    "fileSize": 310258,
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images1/Inovelli/VZM31-SN_2.18-Production.ota",
+    "imageType": 257,
+    "manufacturerCode": 4655,
+    "sha512": "6d480a5d621a16bb3a57fcc1af09071fc528dab2a8f3e479620c3bd75ddfa9e8f624c32b1dc35d5c1bc8db0f67a70ee150ce3a516a2026f717076dcbeba23df7",
+    "otaHeaderString": "EBL VM_SWITCH"
   }
 ]
