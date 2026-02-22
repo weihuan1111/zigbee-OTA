@@ -3024,12 +3024,6 @@
     "zigbeeStackVersion": "ZigbeePro"
   },
   {
-    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Ubisys/10F2-7B2D-0000-0001-01800460-m7b-h1.ota.zigbee",
-    "stack": "Unknown",
-    "stackDetails": "",
-    "zigbeeStackVersion": "ZigbeePro"
-  },
-  {
     "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Ubisys/10F2-7B31-0000-0006-02600460-spo-fmd.ota.zigbee",
     "stack": "Unknown",
     "stackDetails": "",
@@ -4935,6 +4929,12 @@
     "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/LEDVANCE/DR_ZBD_NFC_P_45W_220_240V_1A2-0x1189-0x00FE-0x02728000-MF_DIS-DOWM_DIS-20251222134435-3224010153640-lzma-encrypted.ota",
     "stack": "EmberZNet",
     "stackDetails": "GBL",
+    "zigbeeStackVersion": "ZigbeePro"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Ubisys/10F2-7B2D-0000-0001-01810460-m7b-h1.ota.zigbee",
+    "stack": "ZBOSS",
+    "stackDetails": "Nordic (fuzzy matching)",
     "zigbeeStackVersion": "ZigbeePro"
   }
 ]
