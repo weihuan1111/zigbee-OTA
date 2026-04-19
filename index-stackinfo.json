@@ -4848,12 +4848,6 @@
     "zigbeeStackVersion": "ZigbeePro"
   },
   {
-    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/ThirdReality/60G_Radar_OTA_V33_v1.00.33.ota",
-    "stack": "Unknown",
-    "stackDetails": "",
-    "zigbeeStackVersion": "ZigbeePro"
-  },
-  {
     "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/ThirdReality/t_h_sensor_Lite_v2_OTA_V15_v1.00.15.ota",
     "stack": "Unknown",
     "stackDetails": "",
@@ -4938,9 +4932,93 @@
     "zigbeeStackVersion": "ZigbeePro"
   },
   {
-    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/ThirdReality/Smart_Air_Pressure_Sensor_OTA_V16_1.00.16.ota",
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/ThirdReality/60G_Radar_OTA_V35_v1.00.35.ota",
     "stack": "Unknown",
     "stackDetails": "",
+    "zigbeeStackVersion": "ZigbeePro"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/ONOKOM/aux-1-zb-s_hw1.x_fw0.6.1_ota20.ota",
+    "stack": "EmberZNet",
+    "stackDetails": "GBL",
+    "zigbeeStackVersion": "ZigbeePro"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/ONOKOM/dk-1-zb-s_hw1.x_fw0.6.1_ota20.ota",
+    "stack": "EmberZNet",
+    "stackDetails": "GBL",
+    "zigbeeStackVersion": "ZigbeePro"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/ONOKOM/gr-1-zb-s_hw1.x_fw0.6.1_ota20.ota",
+    "stack": "EmberZNet",
+    "stackDetails": "GBL",
+    "zigbeeStackVersion": "ZigbeePro"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/ONOKOM/gr-3-zb-s_hw1.x_fw0.6.2_ota21.ota",
+    "stack": "EmberZNet",
+    "stackDetails": "GBL",
+    "zigbeeStackVersion": "ZigbeePro"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/ONOKOM/hr-1-zb-s_hw1.x_fw0.6.1_ota20.ota",
+    "stack": "EmberZNet",
+    "stackDetails": "GBL",
+    "zigbeeStackVersion": "ZigbeePro"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/ONOKOM/hs-3-zb-s_hw1.x_fw0.6.1_ota20.ota",
+    "stack": "EmberZNet",
+    "stackDetails": "GBL",
+    "zigbeeStackVersion": "ZigbeePro"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/ONOKOM/ht-1-zb-s_hw1.x_fw0.6.1_ota20.ota",
+    "stack": "EmberZNet",
+    "stackDetails": "GBL",
+    "zigbeeStackVersion": "ZigbeePro"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/ONOKOM/md-1-zb-s_hw1.x_fw0.6.2_ota21.ota",
+    "stack": "EmberZNet",
+    "stackDetails": "GBL",
+    "zigbeeStackVersion": "ZigbeePro"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/ONOKOM/md-3-zb-s_hw1.x_fw0.6.1_ota20.ota",
+    "stack": "EmberZNet",
+    "stackDetails": "GBL",
+    "zigbeeStackVersion": "ZigbeePro"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/ONOKOM/me-1-zb-s_hw1.x_fw0.6.1_ota20.ota",
+    "stack": "EmberZNet",
+    "stackDetails": "GBL",
+    "zigbeeStackVersion": "ZigbeePro"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/ONOKOM/tcl-1-zb-s_hw1.x_fw0.6.1_ota20.ota",
+    "stack": "Unknown",
+    "stackDetails": "",
+    "zigbeeStackVersion": "ZigbeePro"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/ONOKOM/tcl-3-zb-s_hw1.x_fw0.6.1_ota20.ota",
+    "stack": "EmberZNet",
+    "stackDetails": "GBL",
+    "zigbeeStackVersion": "ZigbeePro"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/ThirdReality/Smart_Air_Pressure_Sensor_OTA_V17_1.00.17.ota",
+    "stack": "Unknown",
+    "stackDetails": "",
+    "zigbeeStackVersion": "ZigbeePro"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Hue/hue-secure-contact-ota_t0x0125_m0x100b_v0x02005501.ota",
+    "stack": "EmberZNet",
+    "stackDetails": "GBL",
     "zigbeeStackVersion": "ZigbeePro"
   }
 ]
