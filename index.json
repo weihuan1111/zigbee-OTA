@@ -9556,5 +9556,16 @@
     "manufacturerCode": 4107,
     "sha512": "72503079544bc2e4fca09bbce55f50b9dcb758553bbc16724dee9a59876b7b647ec8caecb6daa64654790f4c892448bcfdeb5e9e03865920f95530c639e0120e",
     "otaHeaderString": ""
+  },
+  {
+    "fileName": "minizb1gsp_v1.0.3.ota",
+    "fileVersion": 4100,
+    "fileSize": 335742,
+    "originalUrl": "https://zigbee-ota.sonoff.tech/releases/minizb1gsp_v1.0.3.ota",
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Sonoff/minizb1gsp_v1.0.3.ota",
+    "imageType": 70,
+    "manufacturerCode": 4742,
+    "sha512": "cfe91590d0aad095903c8a309655744a7ac4b0d44429b9b10486ce07555fffcfcfaf22a78238173c38077760b5e3951a682906f7133617c13eb29e1d6091a4a2",
+    "otaHeaderString": "EBL FWPLUG_MINIZB1GSP_ELECTRICAL"
   }
 ]
