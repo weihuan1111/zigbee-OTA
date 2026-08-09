@@ -3996,25 +3996,7 @@
     "zigbeeStackVersion": "ZigbeePro"
   },
   {
-    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Hue/100B-011E-01002502-ConfLight-PortableV2-EFR32MG13.zigbee",
-    "stack": "EmberZNet",
-    "stackDetails": "GBL",
-    "zigbeeStackVersion": "ZigbeePro"
-  },
-  {
     "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Hue/100B-0120-01002502-ConfLightBLE-PortableV3-EFR32MG21.zigbee",
-    "stack": "EmberZNet",
-    "stackDetails": "GBL",
-    "zigbeeStackVersion": "ZigbeePro"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Hue/100B-0123-01000E02-PixelLumXL-EFR32MG21.zigbee",
-    "stack": "EmberZNet",
-    "stackDetails": "GBL",
-    "zigbeeStackVersion": "ZigbeePro"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Hue/100B-0127-01000F02-MSD-EFR32MG21.zigbee",
     "stack": "EmberZNet",
     "stackDetails": "GBL",
     "zigbeeStackVersion": "ZigbeePro"
@@ -4039,12 +4021,6 @@
   },
   {
     "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Hue/100B-0117-01001D0E-ConfLightBLE-ModuLum-EFR32MG21.zigbee",
-    "stack": "EmberZNet",
-    "stackDetails": "GBL",
-    "zigbeeStackVersion": "ZigbeePro"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Hue/100B-0118-01002000-PixelLum-EFR32MG21.zigbee",
     "stack": "EmberZNet",
     "stackDetails": "GBL",
     "zigbeeStackVersion": "ZigbeePro"
@@ -4608,24 +4584,6 @@
     "zigbeeStackVersion": "ZigbeePro"
   },
   {
-    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Hue/100B-0112-01002C00-ConfLightBLE-Lamps-EFR32MG13.zigbee",
-    "stack": "EmberZNet",
-    "stackDetails": "GBL",
-    "zigbeeStackVersion": "ZigbeePro"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Hue/100B-0114-01002800-ConfLightBLE-Lamps-EFR32MG21.zigbee",
-    "stack": "EmberZNet",
-    "stackDetails": "GBL",
-    "zigbeeStackVersion": "ZigbeePro"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Hue/100B-0115-01001600-SmartPlug-EFR32MG13.zigbee",
-    "stack": "EmberZNet",
-    "stackDetails": "GBL",
-    "zigbeeStackVersion": "ZigbeePro"
-  },
-  {
     "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Hue/100B-0116-02005501-Switch-EFR32MG13.zigbee",
     "stack": "EmberZNet",
     "stackDetails": "GBL",
@@ -4638,25 +4596,7 @@
     "zigbeeStackVersion": "ZigbeePro"
   },
   {
-    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Hue/100B-011A-01001100-SmartPlug-EFR32MG21.zigbee",
-    "stack": "EmberZNet",
-    "stackDetails": "GBL",
-    "zigbeeStackVersion": "ZigbeePro"
-  },
-  {
     "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Hue/100B-011C-02005505-SwitchModule-EFR32MG13.zigbee",
-    "stack": "EmberZNet",
-    "stackDetails": "GBL",
-    "zigbeeStackVersion": "ZigbeePro"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Hue/100B-011D-01002800-ConfLight-ModuLumV2-EFR32MG13.zigbee",
-    "stack": "EmberZNet",
-    "stackDetails": "GBL",
-    "zigbeeStackVersion": "ZigbeePro"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Hue/100B-011F-01002700-ConfLightBLE-ModuLumV3-EFR32MG21.zigbee",
     "stack": "EmberZNet",
     "stackDetails": "GBL",
     "zigbeeStackVersion": "ZigbeePro"
@@ -5131,6 +5071,78 @@
   },
   {
     "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/LEDVANCE/DR_ZBD_NFC_P_45W_220_240V_1A2-0x1189-0x00FE-0x027E8000-MF_DIS-DOWM_DIS-20260706123424-3224010153640-lzma-encrypted.ota",
+    "stack": "EmberZNet",
+    "stackDetails": "GBL",
+    "zigbeeStackVersion": "ZigbeePro"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Hue/100B-0112-01002E00-ConfLightBLE-Lamps-EFR32MG13.zigbee",
+    "stack": "EmberZNet",
+    "stackDetails": "GBL",
+    "zigbeeStackVersion": "ZigbeePro"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Hue/100B-0114-01002A00-ConfLightBLE-Lamps-EFR32MG21.zigbee",
+    "stack": "EmberZNet",
+    "stackDetails": "GBL",
+    "zigbeeStackVersion": "ZigbeePro"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Hue/100B-0115-01001700-SmartPlug-EFR32MG13.zigbee",
+    "stack": "EmberZNet",
+    "stackDetails": "GBL",
+    "zigbeeStackVersion": "ZigbeePro"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Hue/100B-0118-01002100-PixelLum-EFR32MG21.zigbee",
+    "stack": "EmberZNet",
+    "stackDetails": "GBL",
+    "zigbeeStackVersion": "ZigbeePro"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Hue/100B-011A-01001200-SmartPlug-EFR32MG21.zigbee",
+    "stack": "EmberZNet",
+    "stackDetails": "GBL",
+    "zigbeeStackVersion": "ZigbeePro"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Hue/100B-011D-01002902-ConfLight-ModuLumV2-EFR32MG13.zigbee",
+    "stack": "EmberZNet",
+    "stackDetails": "GBL",
+    "zigbeeStackVersion": "ZigbeePro"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Hue/100B-011E-01002604-ConfLight-PortableV2-EFR32MG13.zigbee",
+    "stack": "EmberZNet",
+    "stackDetails": "GBL",
+    "zigbeeStackVersion": "ZigbeePro"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Hue/100B-011F-01002800-ConfLightBLE-ModuLumV3-EFR32MG21.zigbee",
+    "stack": "EmberZNet",
+    "stackDetails": "GBL",
+    "zigbeeStackVersion": "ZigbeePro"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Hue/100B-0120-01002600-ConfLightBLE-PortableV3-EFR32MG21.zigbee",
+    "stack": "EmberZNet",
+    "stackDetails": "GBL",
+    "zigbeeStackVersion": "ZigbeePro"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Hue/100B-0123-01000F00-PixelLumXL-EFR32MG21.zigbee",
+    "stack": "EmberZNet",
+    "stackDetails": "GBL",
+    "zigbeeStackVersion": "ZigbeePro"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Hue/100B-0127-01001000-MSD-EFR32MG21.zigbee",
+    "stack": "EmberZNet",
+    "stackDetails": "GBL",
+    "zigbeeStackVersion": "ZigbeePro"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Hue/100B-0128-01000D00-Chime-EFR32MG21.zigbee",
     "stack": "EmberZNet",
     "stackDetails": "GBL",
     "zigbeeStackVersion": "ZigbeePro"
