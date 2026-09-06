@@ -3483,17 +3483,6 @@
     "minFileVersion": 16782338
   },
   {
-    "fileName": "100B-0118-01002000-PixelLum-EFR32MG21.zigbee",
-    "fileVersion": 16785408,
-    "fileSize": 511780,
-    "originalUrl": "https://otau.meethue.com/storage/ZGB_100B_0118/737420a4-60ba-42d8-9f8f-80a31ef9e0e6/100B-0118-01002000-PixelLum-EFR32MG21.zigbee",
-    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images1/Hue/100B-0118-01002000-PixelLum-EFR32MG21.zigbee",
-    "imageType": 280,
-    "manufacturerCode": 4107,
-    "sha512": "14ecc44c4a500fa7b41c12e29df85f901ba4baf3fc8a6652008611c35361ff611abef5b291e51d31e9852f720c75cf14ed56fa5cf05d66897340f030a96b2d9f",
-    "otaHeaderString": ""
-  },
-  {
     "fileName": "100B-011A-01001100-SmartPlug-EFR32MG21.zigbee",
     "fileVersion": 16781568,
     "fileSize": 358512,
@@ -3601,5 +3590,29 @@
     "otaHeaderString": "ubisys D1-R 2.6.0",
     "hardwareVersionMin": 0,
     "hardwareVersionMax": 4
+  },
+  {
+    "fileName": "100B-0118-01002100-PixelLum-EFR32MG21.zigbee",
+    "fileVersion": 16785664,
+    "fileSize": 501568,
+    "originalUrl": "https://firmware.meethue.com/storage/100b-118/16785664/6fd4f8ad-c645-4699-9f92-71bb965314db/100B-0118-01002100-PixelLum-EFR32MG21.zigbee",
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images1/Hue/100B-0118-01002100-PixelLum-EFR32MG21.zigbee",
+    "imageType": 280,
+    "manufacturerCode": 4107,
+    "sha512": "d557942fac0a00e48726bb0f26b564331346e0ec1a4f9dc1266858e01a5a2f4c64c7939321f0237540416d88017000e2c5923552312f6ecbaa305530a83b9345",
+    "otaHeaderString": "",
+    "releaseNotes": "Version: 33.0"
+  },
+  {
+    "fileName": "100B-012D-0100080A-MSD-SiMG301.zigbee",
+    "fileVersion": 16779274,
+    "fileSize": 1100624,
+    "originalUrl": "https://firmware.meethue.com/storage/100b-12d/16779274/a68e141b-0a50-451d-8a4a-b56232ed3239/100B-012D-0100080A-MSD-SiMG301.zigbee",
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images1/Hue/100B-012D-0100080A-MSD-SiMG301.zigbee",
+    "imageType": 301,
+    "manufacturerCode": 4107,
+    "sha512": "c18273331c54192b21404dccc30bfa29bab5ee4a6593c2d311389ba11f92c9e84b6d1fcbca923b4262ff578bfde352517d919045c813032ba5b1508e1bdf1db7",
+    "otaHeaderString": "",
+    "releaseNotes": "Version: 8.10"
   }
 ]
